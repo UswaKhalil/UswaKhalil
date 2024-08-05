@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python.
 - 🛠️ Skills: Python, C++, HTML/CSS, Java .
 - 🎯 Goals: Improve my coding skills, contribute to open source projects, etc.
-- 📚 Currently learning from: [University Name]( HITEC UNIVERSITY TAXILA), [Degree Title]( COMPUTER SCIENCE)
+- 📚 Currently learning from: HITEC UNIVERSITY TAXILA.
 - 👩‍🏫 Open to mentoring or seeking mentorship opportunities.
 - 💡 Interests: AI, cybersecurity, data science, etc.
 - 💞️ I’m looking to collaborate on ...
