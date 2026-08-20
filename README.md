@@ -2,11 +2,10 @@
 - 👀 I’m interested in exploring the world of coding.
 - 🌱 I’m currently learning Python.
 - 🛠️ Skills: Python, C++, HTML/CSS, Java .
-- 🎯 Goals: Improve my coding skills, contribute to open source projects, etc.
+- 🎯 Goals: Improve my coding skills, contribute to open source projects.
 - 📚 Currently learning from: HITEC UNIVERSITY TAXILA.
 - 👩‍🏫 Open to mentoring or seeking mentorship opportunities.
-- 💡 Interests: AI, cybersecurity, data science, etc.
-- 💞️ I’m looking to collaborate on ...
+- 💡 Interests: AI, cybersecurity, data science.
 - 📫 How to reach me: [Email](uswakhalil04@gmail.com), [LinkedIn](https://www.linkedin.com/in/uswa-khalil-1b5a79304?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 😄 Pronouns: SHE/HER
 - ⚡ Fun fact: There are two ways to write error-free programs; only the third one works.
